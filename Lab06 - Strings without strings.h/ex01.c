@@ -11,7 +11,7 @@ TABELA ASCII: o tipo char pode receber valores numéricos. Como ele ocupa
 1 byte, os valores variam de -128 ..  +127. Já o tipo unsigned char, que 
 também ocupa 1 byte, representa números de 0 .. 255. Cada valor de um tipo 
 char tem um caractere associado na tabela ASCII (a tabela original tem 7 bits, 
-indo de 0 a 127)
+indo de 0 a 127).
 
 No comando printf, pode-se utilizar %d para mostrar uma variável 
 unsigned char, será mostrado um número. Caso queira mostrar o caractere ASCII 

@@ -18,5 +18,4 @@ Digite o valor 3: 70
 Digite o valor 4: 80
 Digite o valor 5: 60
 A media eh 64 e o desvio-padrao eh 11.40
-------
 */

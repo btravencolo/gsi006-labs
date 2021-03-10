@@ -3,6 +3,7 @@
 int main(){
     printf("<< Listando um vetor em ordem inversa >>\n");
 
+
     return 0;
 }
 

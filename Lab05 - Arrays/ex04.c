@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("<< Listando um vetor em ordem inversa >>\n");
+    printf("<< Listando um vetor de numeros pares>>\n");
 
 
     return 0;

@@ -20,5 +20,5 @@ Entre com o numero 4: 0
 Entre com o numero 5: 3
 Entre com o numero 6: 6
 
-Os valores lidos sao: 5 6 4 0 3 6
+Valores lidos: 5 6 4 0 3 6
 */

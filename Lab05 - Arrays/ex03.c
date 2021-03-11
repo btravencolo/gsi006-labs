@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-
 int main(){
+    printf("<< Listando um vetor em ordem inversa >>\n");
     return 0;
 }
 
@@ -18,5 +18,5 @@ Entre com o numero 4: 0
 Entre com o numero 5: 3
 Entre com o numero 6: 6
 
-A ordem inversa dos numeros eh: 6 3 0 4 6 5
+Ordem inversa dos numeros: 6 3 0 4 6 5
 */

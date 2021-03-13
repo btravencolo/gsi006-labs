@@ -3,6 +3,10 @@
 int main(){
     printf("<< Pointers >>\n");
 
+    printf("teste(bla);");
+    printf("Esse arquivo está modificado");
+    
+
     return 0;
 }
 

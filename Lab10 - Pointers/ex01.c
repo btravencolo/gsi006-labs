@@ -6,9 +6,6 @@ int main(){
     printf("teste(bla);");
     printf("Esse arquivo está modificado");
     printf("Saiu do staged area após o commit quando não tem autosave");
-    
-
-
     return 0;
 }
 

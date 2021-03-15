@@ -9,6 +9,7 @@ int main(){
 /*
 Crie um programa que lê 6 valores inteiros e em seguida mostra na tela os 
 valores lidos. Não utilize loops e utilize vetores para armazenar os números.
+nova linha para testar!
  
 Exemplo de saída:
 << Listando um vetor >>

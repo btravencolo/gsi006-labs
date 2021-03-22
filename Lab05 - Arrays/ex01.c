@@ -7,8 +7,7 @@ int main(){
 }
 
 /*
-teste mudando  enunciado
-Crie um programa que lê 45 valores inteiros e em seguida mostra na tela os 
+Crie um programa que lê 6 valores inteiros e em seguida mostra na tela os 
 valores lidos. Não utilize loops e utilize vetores para armazenar os números.
 nova linha para testar!
  

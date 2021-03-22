@@ -2,6 +2,7 @@
 
 int main(){
     printf("<< Listando um vetor >>\n");
+    // inserindo comentários dentro do código para saber se há algum efeito importante
 
     return 0;
 }

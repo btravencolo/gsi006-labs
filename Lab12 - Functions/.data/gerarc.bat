@@ -1,0 +1,1 @@
+type text_c_header.txt ex02_desc.txt text_out_begin.txt ex02_out.txt text_out_end.txt > ../ex02.c

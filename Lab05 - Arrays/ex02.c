@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("<< Listando um vetor >>\n");
+    printf("<< Listando um vetor - com loops >>\n");
 
     return 0;
 }
@@ -12,7 +12,7 @@ valores lidos. Utilize loops e utilize vetores para armazenar os números.
 (pense qual o melhor loop: for, while ou do-while)
  
 Exemplo de saída:
-<< Listando um vetor >>
+<< Listando um vetor - com loops >>
 Entre com o numero 1: 5
 Entre com o numero 2: 6
 Entre com o numero 3: 4

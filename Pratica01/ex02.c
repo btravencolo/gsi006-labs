@@ -20,7 +20,7 @@ int main(){
     printf("Digite a temperatura (em Celsius): ");
     scanf("%f",&tempc);
     tempf = tempc * (9.0/5.0) + 32.0;
-    printf("%.1f graus Celsius correspondem a %.1f Fahrenheit\n", tempc, tempf);
+    printf("\n%.1f graus Celsius correspondem a %.1f Fahrenheit\n", tempc, tempf);
     return 0;
     
 }

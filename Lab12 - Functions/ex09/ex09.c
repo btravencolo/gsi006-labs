@@ -26,6 +26,6 @@ Exemplo de Saída 2:
 
 Digite o valor de y: -100
 Digite o percentual de alteração: .10
-O valor alterado é: -110
+O valor alterado eh: -110
 -------------------------------------------------------------------------------
 */

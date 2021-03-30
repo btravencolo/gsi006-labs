@@ -20,7 +20,7 @@ Exemplo de Saída:
 
 Digite o número A: 2
 Digite o número B: 5
-O número A é: 5
-O número B é: 2
+O número A eh: 5
+O número B eh: 2
 -------------------------------------------------------------------------------
 */

@@ -18,7 +18,6 @@ exit /B 1
 
 :seta_variavel
     set EXERCICIO=%1
-    echo %EXERCICIO%
 
 
 

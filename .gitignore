@@ -1,0 +1,11 @@
+*
+!**/
+!*.c
+!.gitignore
+!*.h
+!*.md
+!*.out*
+!*.in
+!*.xlsx
+!*.xls
+!*.txt

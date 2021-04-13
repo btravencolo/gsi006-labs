@@ -6,7 +6,7 @@
             "command": "D:\\portables\\mingw64\\bin\\gcc.exe",
             "args": [
                 "-g",
-                "${file}",
+                "${file}","-g TMat2D.c",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],

@@ -4,13 +4,14 @@
 
 struct produto
 {
-   char nome[4];
+   char nome[100];
    float preco;
    int qtd_estoque;
 };
 
 produto *cria_produto(char *nome, float preco, int qtd){
   produto *p;
+
   p = malloc(sizeof(produto));
   if (p == NULL)
     return NULL;
@@ -19,7 +20,9 @@ produto *cria_produto(char *nome, float preco, int qtd){
   p->qtd_estoque = qtd;
   return p;
 }
-
+// retorno
+// -1 - erro
+// 0 - sucesso
 int get_prod_info(produto *prod, char *nome, float *preco, int *qtd){
   if (prod == NULL)
     return -1;

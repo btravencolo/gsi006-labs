@@ -5,7 +5,6 @@ int main(){
 
    produto *p;
 
-
    char nome[100];
    float preco; 
    int qtd_estoque;
@@ -16,7 +15,6 @@ int main(){
    scanf("%d", &qtd_estoque);
 
    p = cria_produto(nome,preco,qtd_estoque);
-   p->preco = 12;
 
 
    printf("\nAumentando o preco em 10%% do produto 1 e 3");
@@ -24,7 +22,8 @@ int main(){
    altera_preco(p,10);   
    
    printf("\nReduzindo o preco em 5%% do produto 2");
-   altera_preco(p,-5);   
+   if (altera_preco(p,-5) == -1)
+    printf("\n Erro! - preco nao alterado ");   
    //  p->preco = p->preco*-5;   <<< não compila se descomentar
 
    printf("\nProdutos Cadastrados:\n");

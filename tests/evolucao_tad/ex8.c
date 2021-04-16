@@ -4,6 +4,7 @@
 int main(){
 
    produto p[4];
+   produto p2;
 
    for (int i = 0; i < 4; i++)
    {

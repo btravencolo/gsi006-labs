@@ -30,7 +30,7 @@ int main(){
     } 
 
     int ret;
-    ret = list_push_front(list, a);
+    ret = list_push_back(list, a);
     if (ret == INVALID_NULL_POINTER)
       printf("Erro de ponteiro");
     else if (ret == OUT_OF_MEMORY)
@@ -38,17 +38,17 @@ int main(){
     else if (ret == SUCCESS)
       printf("Aluno inserido");
 
-    list_push_front(list, b);
-    list_push_front(list, c);
-    list_push_front(list, d);        
+    list_push_back(list, b);
+    list_push_back(list, c);
+    list_push_back(list, d);        
  
  /// joao / maria / jose / ana
 
 // maria -> joao ->jose ->ana
 
     list_print(list);
-    //int tam = list_size(list);
-    //printf("Tamanho da lista: %d", tam);
+    int tam = list_size(list);
+    printf("Tamanho da lista: %d", tam);
     list_free(list);
     list = NULL;
 

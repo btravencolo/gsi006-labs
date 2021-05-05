@@ -30,6 +30,7 @@ int list_erase(TLinkedList *list, int pos);
 int list_find_pos(TLinkedList *list, int pos, struct aluno *al);
 int list_find_mat(TLinkedList *list, int nmat, struct aluno *al);
 int list_front(TLinkedList *list, struct aluno *al);
+
 int list_back(TLinkedList *list, struct aluno *al);
 int list_get_pos(TLinkedList *list, int nmat, int *pos);
 int list_print(TLinkedList *list);

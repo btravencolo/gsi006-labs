@@ -41,8 +41,14 @@ int main(){
     list_push_front(list, b);
     list_push_front(list, c);
     list_push_front(list, d);        
-    
+ 
+ /// joao / maria / jose / ana
+
+// maria -> joao ->jose ->ana
+
     list_print(list);
+    //int tam = list_size(list);
+    //printf("Tamanho da lista: %d", tam);
     list_free(list);
     list = NULL;
 

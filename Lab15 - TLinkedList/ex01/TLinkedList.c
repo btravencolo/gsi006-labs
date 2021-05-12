@@ -151,3 +151,31 @@ int list_size(TLinkedList *list){
         return contador;
     }
 }
+
+
+int list_insert_sorted(TLinkedList *list, struct aluno al){
+    if (list == NULL)
+        return INVALID_NULL_POINTER;
+    list_node *node;
+    node = malloc(sizeof(list_node));
+    if (node == NULL)
+        return OUT_OF_MEMORY;
+    node->data = al;
+
+    list_node *aux, *prev;
+
+    prev = NULL;
+    aux = list->head;
+    while ( (aux != NULL) && (node->data.matricula > aux->data.matricula)){
+        prev = aux;
+        aux = aux->next;
+    }
+    if (prev == NULL) { // inserção na cabeça (lista vazia ou matricula de menor de valor da lista)
+        node->next = aux;
+        list->head = node;
+    } else {
+       prev->next = node;
+       node->next = aux;
+    }
+    return SUCCESS;   
+}

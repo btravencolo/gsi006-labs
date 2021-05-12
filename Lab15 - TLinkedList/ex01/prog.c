@@ -46,10 +46,19 @@ int main(){
 
 // maria -> joao ->jose ->ana
 
-    list_print(list);
+    //list_print(list);
     int tam = list_size(list);
     printf("Tamanho da lista: %d", tam);
     list_free(list);
     list = NULL;
+
+    TLinkedList *listord;
+    listord = list_create();
+    list_insert_sorted(listord,c); /// teste com a lista vazia
+    list_insert_sorted(listord,a); // teste com insere na cabeça da lista
+    list_insert_sorted(listord,b); // teste com insecao no meio da lista
+    list_insert_sorted(listord,d); // insere no final da lista
+    list_insert_sorted(listord,a); // teste com insere na cabeça da lista    
+    list_print(listord);
 
 }

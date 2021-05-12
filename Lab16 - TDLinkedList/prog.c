@@ -31,8 +31,30 @@ int main(){
     list_push_front(list,c);
     list_push_front(list,d);    
 
-    list_print_forward(list);
-    list_print_reverse(list);    
+    //list_print_forward(list);
+    //list_print_reverse(list);    
+
+    TDLinkedList *list_teste;
+    list_teste = list_create();
+    int ret;
+    ret = list_insert(list_teste,10,a);
+    if (ret == OUT_OF_RANGE) 
+        printf("Out of range!");
+    ret = list_insert(list_teste,0,a);
+    if (ret == OUT_OF_RANGE) 
+        printf("Out of range!");
+    
+    list_insert(list_teste,1,a); // teste com a lista vazia;  L: a
+    list_insert(list_teste,1,b); // teste com a lista com um elemento (insere antes);   L: b <> a 
+    list_insert(list_teste,2,c); // insere no meio;   L: b <> c <> a     
+    list_insert(list_teste,4,d); // insere na última posição; L: b <> c <> a <> d
+    list_print_forward(list_teste);
+    list_push_front(list_teste,d);
+    list_print_forward(list_teste);// insere na primeira posição; L: d <> b <> c <> a <> d
+    
+
+    
+        
 
     return 0;
 }

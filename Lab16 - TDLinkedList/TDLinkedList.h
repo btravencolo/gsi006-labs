@@ -16,7 +16,7 @@ TDLinkedList *list_create();
 int list_free(TDLinkedList *list);
 
 int list_push_front(TDLinkedList *list, struct aluno al);
-
+int list_insert(TDLinkedList *list, int pos, struct aluno al);
 int list_print_forward(TDLinkedList *list);
 int list_print_reverse(TDLinkedList *list);
 

@@ -17,7 +17,7 @@ int list_free(TLinkedList *list);
 
 int list_push_front(TLinkedList *list, struct aluno al);
 int list_push_back(TLinkedList *list, struct aluno al);
-
+int list_insert(TLinkedList *list, int pos, struct aluno al); 
 int list_insert_sorted(TLinkedList *list, struct aluno al);
 int list_size(TLinkedList *list);
 

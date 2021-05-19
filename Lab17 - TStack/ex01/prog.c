@@ -3,5 +3,6 @@
 
 int main(){
     struct aluno a;
+    TStack *st;
     return 0;
 }

@@ -3,6 +3,7 @@
 #include "TSeqList.h"
 
 
+
 // é possível criar a lista
 struct TStack{
     TSeqList *list;
@@ -60,3 +61,4 @@ int stack_print(TStack *st)
 {
 
 }
+

@@ -2,6 +2,13 @@
 #include <string.h>
 #include <stdlib.h>
 
+struct aluno
+{
+    int matricula;
+    char nome[30];
+    float n1, n2, n3;
+};
+
 int main(int argc, char *argv[])
 {
 
@@ -103,6 +110,58 @@ int main(int argc, char *argv[])
         }
         fwrite(v, sizeof(char), strlen(v), fp);
         fclose(fp);
+    }
+    else if (strcmp(argv[1], "-aluno") == 0)
+    {
+        struct aluno a, b, c, d, temp;
+        strcpy(a.nome, "Joao");
+        a.matricula = 1;
+        a.n1 = 0;
+        a.n2 = 2;
+        a.n3 = 0;
+
+        strcpy(b.nome, "Maria");
+        b.matricula = 2;
+        b.n1 = 2;
+        b.n2 = 0;
+        b.n3 = 0;
+
+        strcpy(c.nome, "Jose");
+        c.matricula = 3;
+        c.n1 = 0;
+        c.n2 = 0;
+        c.n3 = 4;
+
+        strcpy(d.nome, "Ana");
+        d.matricula = 4;
+        d.n1 = 0;
+        d.n2 = 0;
+        d.n3 = 2;
+       
+        FILE *fp;
+        fp = fopen(argv[2],"wb");
+
+        fwrite(&a,sizeof(struct aluno),1,fp);
+        fwrite(&b,sizeof(struct aluno),1,fp);
+        fwrite(&c,sizeof(struct aluno),1,fp);
+        fwrite(&d,sizeof(struct aluno),1,fp);                        
+        fclose(fp);
+
+        fp = fopen(argv[2],"rb");
+        int pos;
+        sscanf(argv[3],"%d", &pos);
+        fseek(fp,sizeof(struct aluno)*(pos-1),SEEK_SET);
+        fread(&temp,sizeof(struct aluno),1, fp);
+        printf("(%d) Nome: %s", temp.matricula,  temp.nome);
+
+        fseek(fp,sizeof(struct aluno)*1,SEEK_CUR);
+        fread(&temp,sizeof(struct aluno),1, fp);
+        printf("(%d) Nome: %s", temp.matricula,  temp.nome);
+
+        fclose(fp);
+
+
+        
     }
 
     /*

@@ -1,0 +1,16 @@
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.csproj.AssemblyReference.cache
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.AssemblyInfo.cs
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.exe
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.deps.json
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.runtimeconfig.json
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.runtimeconfig.dev.json
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.dll
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\ref\cadastro.dll
+C:\Users\evand\source\repos\cadastro\cadastro\bin\Debug\net5.0\cadastro.pdb
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.dll
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\ref\cadastro.dll
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.pdb
+C:\Users\evand\source\repos\cadastro\cadastro\obj\Debug\net5.0\cadastro.genruntimeconfig.cache

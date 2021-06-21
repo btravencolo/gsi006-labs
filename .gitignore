@@ -9,3 +9,16 @@
 !*.xlsx
 !*.xls
 !*.txt
+/.vscode/extensions/.5fcb0a50-5166-4445-90b6-6f8ade0170f6/.venv/lib/python3.7/site-packages/pip-20.1.1.dist-info
+/AppData
+/Downloads
+/Games/Age of Empires 3 DE/Logs
+/MicrosoftEdgeBackups/backups/MicrosoftEdgeBackup20200625
+/OneDrive
+/source/repos/apreder/apreder/wwwroot/css/open-iconic
+/source/repos/CMakeProject1
+/source/repos/CMakeProject2
+/source/repos/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1
+/source/repos/evandronascimento
+/source/repos/Project1/Project1
+/source/repos/Udemy-Primeiro

@@ -1,0 +1,7 @@
+Nome: Evandro
+Idade: 36
+Peso: 87
+Altura: 1,75
+IMC: 28
+Resultado: Sobre peso
+------------------------------------------

@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.exe
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.deps.json
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.runtimeconfig.json
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.runtimeconfig.dev.json
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.dll
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\bin\Debug\netcoreapp3.1\POOPoliformismo.pdb
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.csproj.AssemblyReference.cache
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.AssemblyInfo.cs
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.dll
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.pdb
+C:\Users\evand\source\repos\POOPoliformismo\POOPoliformismo\obj\Debug\netcoreapp3.1\POOPoliformismo.genruntimeconfig.cache

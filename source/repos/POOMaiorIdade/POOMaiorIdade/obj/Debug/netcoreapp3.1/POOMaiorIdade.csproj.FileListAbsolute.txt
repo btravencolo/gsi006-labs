@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.AssemblyInfo.cs
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.exe
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.deps.json
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.runtimeconfig.json
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.runtimeconfig.dev.json
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.dll
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\bin\Debug\netcoreapp3.1\POOMaiorIdade.pdb
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.dll
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.pdb
+C:\Users\evand\source\repos\POOMaiorIdade\POOMaiorIdade\obj\Debug\netcoreapp3.1\POOMaiorIdade.genruntimeconfig.cache

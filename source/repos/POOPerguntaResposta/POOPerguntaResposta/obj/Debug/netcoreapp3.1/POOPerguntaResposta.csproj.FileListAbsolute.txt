@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.exe
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.deps.json
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.runtimeconfig.json
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.runtimeconfig.dev.json
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.dll
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\bin\Debug\netcoreapp3.1\POOPerguntaResposta.pdb
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.csproj.AssemblyReference.cache
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.AssemblyInfo.cs
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.dll
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.pdb
+C:\Users\evand\source\repos\POOPerguntaResposta\POOPerguntaResposta\obj\Debug\netcoreapp3.1\POOPerguntaResposta.genruntimeconfig.cache

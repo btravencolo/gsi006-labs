@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.csproj.AssemblyReference.cache
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.AssemblyInfo.cs
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.exe
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.deps.json
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.runtimeconfig.json
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.runtimeconfig.dev.json
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.dll
+C:\Users\evand\source\repos\aula6.1\aula6.1\bin\Debug\netcoreapp3.1\aula6.1.pdb
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.dll
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.pdb
+C:\Users\evand\source\repos\aula6.1\aula6.1\obj\Debug\netcoreapp3.1\aula6.1.genruntimeconfig.cache
